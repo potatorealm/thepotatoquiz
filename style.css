@@ -1,0 +1,124 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Libre Baskerville', serif;
+  background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.failure {
+    width: 100%;
+    height: 100%;
+    font-family: 'Libre Baskerville', serif;
+    background: url(failure.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.question2 {
+    width: 100%;
+    height: 100%;
+    font-family: 'Libre Baskerville', serif;
+    background: url(frenchfries.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.question3 {
+    width: 100%;
+    height: 100%;
+    font-family: 'Libre Baskerville', serif;
+    background: url(sheepfarm.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+.question4 {
+    width: 100%;
+    height: 100%;
+    font-family: 'Libre Baskerville', serif;
+    background: white no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.question6 {
+    width: 100%;
+    height: 100%;
+    font-family: 'Libre Baskerville', serif;
+    background: url(thequestion.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.congrats {
+    width: 100%;
+    height: 100%;
+    font-family: 'Libre Baskerville', serif;
+    background: url(together.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+  font-size: 4rem;
+  color: black;
+}
+
+h2 {
+    font-size: 3rem;
+    color: black;
+}
+
+h3 {
+    font-size: 3rem;
+    color: white;
+}
+
+
+hr {
+  border-color: black;
+  border-width: 3px;
+  max-width: 65px;
+}
+
+.buffer {
+  height: 5rem;
+}
+
+.btn {
+  font-weight: 700;
+  border-radius: 300px;
+}
+
+.btn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44;
+}
+
+.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 4px;
+}
+
+.btn-xl {
+  padding: 1rem 2rem;
+}
